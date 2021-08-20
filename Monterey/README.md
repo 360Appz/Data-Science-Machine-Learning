@@ -8,13 +8,12 @@
 * Team Personnel
 
 
-#  2. Data Acquisition and Understanding
+#  2. Data Exploration
 ## Raw Data
 
 
 
 
-### Data Exploration 
 
 # 3. Modeling
 Data treatment
