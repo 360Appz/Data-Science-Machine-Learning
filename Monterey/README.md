@@ -16,7 +16,7 @@
 
 ### Data Exploration 
 
-3. Modeling
+# 3. Modeling
 Data treatment
 
 
@@ -43,4 +43,4 @@ Conclusion
 
 
 
-References
+# 5. References
