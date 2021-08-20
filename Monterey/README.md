@@ -1,5 +1,5 @@
 
-1. Business Understanding
+# 1. Business Understanding
 
 
 * Scope
@@ -8,7 +8,7 @@
 * Team Personnel
 
 
-2. Data Acquisition and Understanding
+#  2. Data Acquisition and Understanding
 ## Raw Data
 
 
@@ -36,7 +36,7 @@ Model evaluation
 
 Conclusion
 
-4. Deployment
+# 4. Deployment
 
 
 
