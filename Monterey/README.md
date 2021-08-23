@@ -11,7 +11,7 @@ Weather forecast is an important aspect of everyday life. At a macro/institution
 
 # Analysis
 # Result
-![](https://github.com/360Appz/Research-Papers/blob/main/UI%20%26%20UX/Prototype%20Image/UI.PNG){ padding-top:10px }
+![](https://github.com/360Appz/Data-Science-Machine-Learning/blob/main/Monterey/Images/1%20resize.png){ padding-top:10px }
 # Conclusion
 
 # References
