@@ -9,6 +9,6 @@ Weather forecast is an important aspect of everyday life. At a macro/institution
 
 # References
 * ### Technologies
-* Python
-* Anaconda, Jupyter Notebook
-* Prophet (Developed by Facebook, Machine Learning model)
+- Python
+- Anaconda, Jupyter Notebook
+- Prophet (Developed by Facebook, Machine Learning model)
