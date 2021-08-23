@@ -8,6 +8,10 @@ Weather forecast is an important aspect of everyday life. At a macro/institution
 # Conclusion
 
 # References
+https://www.youtube.com/watch?v=mgX0Iz4q0bE&list=PLhusV3ueKvurI9PujkrQxMEahYTqDaAFQ&index=4
+https://github.com/nicknochnack/Forecasting-Weather-with-Neural-Prophet
+https://www.kaggle.com/trisha2094/weatheraus (Dataset)
+
 * ### Technologies
   * Python
   * Anaconda, Jupyter Notebook
