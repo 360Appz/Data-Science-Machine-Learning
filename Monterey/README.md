@@ -12,6 +12,9 @@ Weather forecast is an important aspect of everyday life. At a macro/institution
 # Analysis
 # Result
 ![](https://github.com/360Appz/Data-Science-Machine-Learning/blob/main/Monterey/Images/1%20resize.png) <br> Temperature is higher during year end while temperatures are lower during the early-mid of the yeat { padding-top:5px }
+
+![](https://github.com/360Appz/Data-Science-Machine-Learning/blob/main/Monterey/Images/2%20resize.png) <br> Temperature increases year by year { padding-top:5px }
+
 # Conclusion
 
 # References
