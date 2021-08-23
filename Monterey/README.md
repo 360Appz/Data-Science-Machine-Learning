@@ -14,6 +14,8 @@ This dataset contains data types from text to numbers, therefore care has to be 
 
 There were also missing data approximately from 2015 to late 2016. It was removed as missing data might affect the forecasting.
 
+The type of machine learning model used was a neural network (AR-Net)
+
 **Statistics**
 * Accuracy: 99%
 * Mean average error (MAE): 3.02 degrees from actual value
