@@ -14,7 +14,7 @@ This dataset contains data types from text to numbers, therefore care has to be 
 
 There were also missing data approximately from 2015 to late 2016. It was removed as missing data might affect the forecasting.
 
-The type of machine learning model used was a <u>neural network (AR-Net)</u>
+The type of machine learning model used was a **neural network (AR-Net)**
 
 **Statistics**
 * Accuracy: 99%
@@ -30,6 +30,7 @@ The type of machine learning model used was a <u>neural network (AR-Net)</u>
 ![](https://github.com/360Appz/Data-Science-Machine-Learning/blob/main/Monterey/Images/3%20resuze.png) <br> On a nonthly basis, temperatures are higher in January, lowest in July, and increases progressively as the year ends { padding-top:5px }
 
 # Conclusion
+From the results, activities requiring moderate temperatures should be planned towards the year end. The moderate temperatures increases could also signify the coming of summer. The temperatures could be more suited to humans rather than colder weather
 
 # References
 * https://www.youtube.com/watch?v=mgX0Iz4q0bE&list=PLhusV3ueKvurI9PujkrQxMEahYTqDaAFQ&index=4
