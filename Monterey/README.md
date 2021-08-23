@@ -10,6 +10,16 @@ Weather forecast is an important aspect of everyday life. At a macro/institution
 5. Data visualization and results
 
 # Analysis
+This dataset contains data types from text to numbers, therefore care has to be taken when using the dataset. It is important to know which fields to use for the machine learning model to get the expected forecast. Some conversion had to be done, especially the date, initially it was a text and it had to be converted to a proper date-time format.
+
+There were also missing data approximately from 2015 to late 2016. It was removed as missing data might affect the forecasting.
+
+**Statistics**
+Accuracy: 99%
+Mean average error (MAE): 3.02 degrees from actual value
+Data used: Daily Frequency
+
+
 # Result
 ![](https://github.com/360Appz/Data-Science-Machine-Learning/blob/main/Monterey/Images/1%20resize.png) <br> Temperature increases towards the year end while temperatures progress lower towards the mid of the year { padding-top:5px }
 
