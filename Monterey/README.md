@@ -6,7 +6,7 @@ Weather forecast is an important aspect of everyday life. At a macro/institution
 1. Install and import packages (Prophet, Pandas, Matplotlib, os)
 2. Import and read dataset
 3. Data Pre-processing/Preparation ( Identify locations & data tyoes, conversion of data types, drop irrelevant columns, remove missing data)
-4. Training of machine learning model (Prophet)
+4. Training and prediction of machine learning model (Prophet)
 5. Data visualization and results
 
 # Analysis
