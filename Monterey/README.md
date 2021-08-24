@@ -30,7 +30,7 @@ The type of machine learning model used is a **neural network (AR-Net)**
 ![](https://github.com/360Appz/Data-Science-Machine-Learning/blob/main/Monterey/Images/3%20resuze.png) <br> On a nonthly basis, temperatures are higher in January, lowest in July, and increases progressively as the year ends { padding-top:5px }
 
 # Conclusion
-From the results, activities requiring moderate temperatures should be planned towards the year end. The moderate temperatures increases could also signify the coming of summer. The temperatures could be more suited to humans rather than colder weather.
+From the results, activities requiring moderate temperatures should be planned towards the year end. The moderate temperatures increases could also signify the coming of summer. The temperatures would be more suited to humans rather than colder weather.
 
 It is important to note that year on year, temperatures are rising. From an institutional/ government perspective, these are problems arising from global warming. Higher temperatures cause sea level rises which affects coastal areas more significantly. Hence, action should be taken to combat rising temperatures
 
